@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f784a75-e644-4077-9269-c0ae1b21a230" name="Changes" comment="added gitignore" />
+    <list default="true" id="3f784a75-e644-4077-9269-c0ae1b21a230" name="Changes" comment="added drawio diagram">
+      <change beforePath="$PROJECT_DIR$/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleClassDiagram.drawio.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662232699399</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added drawio diagram">
+      <created>1662234242255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662234242255</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial push" />
     <MESSAGE value="added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gitignore" />
+    <MESSAGE value="added drawio diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="added drawio diagram" />
   </component>
 </project>
