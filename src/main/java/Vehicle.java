@@ -26,4 +26,9 @@ public class Vehicle {
     public void setOdometer(int odometer) {
         this.odometer = odometer;
     }
+
+    public void go(int milesDriven) {
+        setGallonsOfGas(getGallonsOfGas() - (milesDriven / getMilesPerGallon()));
+        setOdometer(getOdometer() + milesDriven);
+    }
 }
